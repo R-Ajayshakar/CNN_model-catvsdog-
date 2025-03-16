@@ -1,0 +1,9 @@
+# Ignore virtual environment
+myenv/
+
+# Ignore large DLL files
+*.dll
+
+# Ignore other unnecessary files
+__pycache__/
+*.log
